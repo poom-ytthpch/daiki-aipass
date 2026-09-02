@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:poom-ytthpch/daiki-aipass-fronted.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = git@github.com:poom-ytthpch/daiki-aipass-backend.git
+	branch = main
+[submodule "infra"]
+	path = infra
+	url = git@github.com:poom-ytthpch/daiki-aipass-infra.git
+	branch = main
